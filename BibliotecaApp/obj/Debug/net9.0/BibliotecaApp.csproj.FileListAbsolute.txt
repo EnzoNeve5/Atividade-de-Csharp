@@ -1,0 +1,14 @@
+C:\Users\anton\source\repos\BibliotecaApp\bin\Debug\net9.0\BibliotecaApp.exe
+C:\Users\anton\source\repos\BibliotecaApp\bin\Debug\net9.0\BibliotecaApp.deps.json
+C:\Users\anton\source\repos\BibliotecaApp\bin\Debug\net9.0\BibliotecaApp.runtimeconfig.json
+C:\Users\anton\source\repos\BibliotecaApp\bin\Debug\net9.0\BibliotecaApp.dll
+C:\Users\anton\source\repos\BibliotecaApp\bin\Debug\net9.0\BibliotecaApp.pdb
+C:\Users\anton\source\repos\BibliotecaApp\obj\Debug\net9.0\BibliotecaApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\anton\source\repos\BibliotecaApp\obj\Debug\net9.0\BibliotecaApp.AssemblyInfoInputs.cache
+C:\Users\anton\source\repos\BibliotecaApp\obj\Debug\net9.0\BibliotecaApp.AssemblyInfo.cs
+C:\Users\anton\source\repos\BibliotecaApp\obj\Debug\net9.0\BibliotecaApp.csproj.CoreCompileInputs.cache
+C:\Users\anton\source\repos\BibliotecaApp\obj\Debug\net9.0\BibliotecaApp.dll
+C:\Users\anton\source\repos\BibliotecaApp\obj\Debug\net9.0\refint\BibliotecaApp.dll
+C:\Users\anton\source\repos\BibliotecaApp\obj\Debug\net9.0\BibliotecaApp.pdb
+C:\Users\anton\source\repos\BibliotecaApp\obj\Debug\net9.0\BibliotecaApp.genruntimeconfig.cache
+C:\Users\anton\source\repos\BibliotecaApp\obj\Debug\net9.0\ref\BibliotecaApp.dll
